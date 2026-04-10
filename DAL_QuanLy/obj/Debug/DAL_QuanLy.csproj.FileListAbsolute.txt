@@ -1,0 +1,11 @@
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.Properties.Resources.resources
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.GenerateResource.cache
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb

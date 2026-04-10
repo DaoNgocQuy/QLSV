@@ -1,0 +1,16 @@
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.Properties.Resources.resources
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.formQuanLy.resources
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\GUI_QuanLy.pdb
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\QuanLySinhVien.dll
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\GUI_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe
+D:\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.pdb
